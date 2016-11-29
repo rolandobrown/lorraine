@@ -1,7 +1,11 @@
 
 ## About lorraine
 
-My mother Lorraine Brown passed on August 6, 2006. I chose to channel the morning into building this. It's the first app I've built. It's not complex. Basically puts, gets, conditionals, and sleep. It's intended to help me imagine what conversations with my mother would be like today. I hope to grow it as I learn more about programming, and as I learn more about my mother. My brothers and sisters are still sharing new stories.
+My mother Lorraine Brown passed on August 6, 2006. I chose to channel the mourning into building this app. It's the first app I've built. It's not complex. Basically puts, gets, conditionals, and sleep. 
+
+It's intended to help me imagine what conversations with my mother would be like today. I hope to grow it as I learn more about programming, and as I learn more about my mother. My brothers and sisters are still sharing new stories. I imagine I can still have conversations with her today—in spirit and through my everyday actions to express care and compassion.
+
+In brief, she adopted and raised me along with several other Afro Latino children. She was a Black woman from Brooklyn who relocated to Staten Island. She was both generous and strong, and someone who decided several times in their life to prioritize taking care of those in need. We had several conversations in our lifetime about lineage, and family, and the importance of remembering ones roots. 
 
 ## Hints
 
